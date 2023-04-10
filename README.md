@@ -11,9 +11,11 @@ Doenload Expo Go on app store or Play Store to run the app
 Click the link below to open app
 
 iOS
+
     exp://u.expo.dev/update/a68b9532-5049-4468-9046-99b394b3b3fe
 
 Android
+
     exp://u.expo.dev/update/d221322a-1e23-42e4-9bbd-cc8342cad085
 
 ## Clone git repository and install packages
