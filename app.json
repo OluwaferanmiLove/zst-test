@@ -4,7 +4,7 @@
     "slug": "zst",
     "version": "1.0.0",
     "orientation": "portrait",
-    "scheme": "zstTest",
+    "scheme": "zst-test",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
@@ -34,6 +34,12 @@
         "projectId": "5ba38b16-1b00-4574-a127-372c360e2f8e"
       }
     },
-    "owner": "oluwaferanmilove"
+    "owner": "oluwaferanmilove",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/5ba38b16-1b00-4574-a127-372c360e2f8e"
+    }
   }
 }
