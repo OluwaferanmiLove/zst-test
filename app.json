@@ -4,6 +4,7 @@
     "slug": "zst",
     "version": "1.0.0",
     "orientation": "portrait",
+    "scheme": "zstTest",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
@@ -15,16 +16,24 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.zst.test"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.zst.test"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5ba38b16-1b00-4574-a127-372c360e2f8e"
+      }
+    },
+    "owner": "oluwaferanmilove"
   }
 }
